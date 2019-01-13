@@ -1,0 +1,6 @@
+Attard 1 450 C# Java
+Galea 2 470 C# Java Delphi Linux PHP
+Grech 3 550
+Bezzina 4 540
+Calleja 5 980 C# Java Delphi Linux PHP
+Grima 6 900 Delphi Linux PHP
